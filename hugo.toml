@@ -1,0 +1,23 @@
+baseURL = 'http://localhost:1313/'
+locale = 'ru-ru'
+title = 'Мой фотоблог'
+theme = 'gallery'
+
+# Настройка меню
+[menus]
+  [[menus.main]]
+    name = 'Главная'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Обо мне'
+    pageRef = '/about'
+    weight = 20
+  [[menus.main]]
+    name = 'Блог'
+    pageRef = '/blog'
+    weight = 30
+  [[menus.main]]
+    name = 'Галерея'
+    pageRef = '/gallery'
+    weight = 40

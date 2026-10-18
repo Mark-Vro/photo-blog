@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Портреты on Мой фотоблог</title>
+    <link>http://localhost:1313/gallery/portrets/</link>
+    <description>Recent content in Портреты on Мой фотоблог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language><atom:link href="http://localhost:1313/gallery/portrets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/gallery/portrets/girls_study/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/portrets/girls_study/</guid>
+        <media:content url="http://localhost:1313/gallery/portrets/girls_study/feature_hu_cb1047e6aa591676.jpeg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/portrets/girls_study/feature_hu_cb1047e6aa591676.jpeg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Девушки на улице</title>
+      <link>http://localhost:1313/gallery/portrets/girls_street/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/portrets/girls_street/</guid>
+        <media:content url="http://localhost:1313/gallery/portrets/girls_street/1550491065144633758_hu_de6cb37ea7a85e20.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/gallery/portrets/girls_street/1550491065144633758_hu_de6cb37ea7a85e20.jpg&quot; /&gt;
+          &lt;p&gt;Фотопортреты девушек на улице&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

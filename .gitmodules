@@ -1,0 +1,15 @@
+[submodule "themes/gallery"]
+	path = themes/gallery
+	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/archie"]
+	path = themes/archie
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/Hugo Frühling"]
+	path = themes/Hugo Frühling
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/autophugo"]
+	path = themes/autophugo
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
