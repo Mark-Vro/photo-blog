@@ -8,7 +8,7 @@
 	path = themes/archie
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/Frühling"]
-	path = themes/Hugo Frühling
+	path = themes/Frühling
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/autophugo"]
 	path = themes/autophugo
