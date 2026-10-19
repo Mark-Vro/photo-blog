@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://mark-vro.github.io/photo-blog/'
 locale = 'ru-ru'
 title = 'Мой фотоблог'
 theme = 'gallery'
